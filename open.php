@@ -20,7 +20,11 @@ sdfh
 sfgh
 
 
+<<<<<<< HEAD
 ABC123455
+=======
+POI9876521
+>>>>>>> origin/master
 
 
 jhausdfuafaju
